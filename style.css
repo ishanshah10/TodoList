@@ -75,8 +75,9 @@ ul{
 }
 .boxes{
     background: #373737;
-    padding: 20px 5px 5px 5px;
+    padding: 20px 10px 5px 10px;
     margin: 20px 10px 0 10px;
+    border-radius: 5px;
 }
 .box{
     background: #7F7F7F;
@@ -85,4 +86,14 @@ ul{
     font-size: 20px;
     align-items:center ;
     margin-bottom: 10px;
+    border-radius: 10px;
+}
+.ai{
+    align-items: center;
+}
+.jc{
+    justify-content: center;
+}
+.gap{
+    gap: 10px;
 }
